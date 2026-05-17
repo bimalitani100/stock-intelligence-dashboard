@@ -67,9 +67,9 @@ Python • Pandas • scikit-learn • PyQt6 • MySQL • Matplotlib • Git �
 - Dashboard UI
 - Prediction charts
 - Jira board
-Login page (agent view):
+- Login page (agent view):
 <img width="510" height="539" alt="Screenshot 2026-05-17 at 6 16 52 PM" src="https://github.com/user-attachments/assets/7d00d5e8-1698-4205-83fd-665dc2c0e60b" />
-Dashboard (agent view):
+-Dashboard (agent view):
 <img width="1506" height="941" alt="Screenshot 2026-05-17 at 6 19 23 PM" src="https://github.com/user-attachments/assets/e2df2c52-9008-4e55-b097-75d2e67fa994" />
 
 
